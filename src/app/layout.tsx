@@ -3,7 +3,7 @@
 import Header from "@/components/Header";
 import "./globals.css";
 import Footer from "@/components/Footer";
-import QuoteCard from "@/components/Quota";
+
 
 
 
